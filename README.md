@@ -1,24 +1,21 @@
 # Cafe Coffee Day Website
 
-![Cafe Coffee Day](DARK.png)
-
 ## Description
-This project is a product showcase landing page for Cafe Coffee Day, designed to provide a delightful online experience for coffee enthusiasts and loyal customers. The website features a sleek and modern design, intuitive user interface, and seamless navigation, all aimed at replicating the inviting ambiance of Cafe Coffee Day's physical locations in the digital realm.
-
-## Features
-- Browse our extensive menu of coffees, teas, and snacks.
-- Discover the latest promotions and special offers.
-- Locate nearby Cafe Coffee Day outlets using our interactive map.
-- Learn more about our commitment to sustainability and community initiatives.
-- Connect with us on social media platforms.
+This project is a product showcase landing page for Cafe Coffee Day, aimed at offering a delightful online experience for coffee enthusiasts and loyal customers. The website boasts a sleek and contemporary design, coupled with an intuitive user interface and seamless navigation, all designed to recreate the inviting ambiance of Cafe Coffee Day's physical locations in the digital realm.
 
 ## Dark & Light Theme Switch
-The website includes a dynamic dark & light theme switch implemented using JavaScript and CSS variables. Users can easily toggle between dark and light themes to suit their preference, enhancing readability and providing a personalized browsing experience.
+Experience convenience with our dynamic dark & light theme switch, powered by JavaScript and CSS variables. Users have the flexibility to effortlessly toggle between dark and light themes, enhancing readability and providing a tailored browsing experience.
 
 ## Responsive Design
-The entire design of the website is crafted to look amazing on all screen sizes. Whether you're browsing on a desktop, tablet, or mobile device, you'll enjoy a consistent and visually appealing experience tailored to your device's specifications.
+Enjoy a seamless and visually appealing experience across all screen sizes. Whether you're accessing the site from a desktop, tablet, or mobile device, our responsive design ensures consistency and elegance tailored to your device's specifications.
 
 ## Technologies Used
 - HTML5
 - CSS3
 - JavaScript
+
+#Dark Theme
+![Cafe Coffee Day](DARK.png)
+
+#Light Theme
+![Cafe Coffee Day](WHITE.png)

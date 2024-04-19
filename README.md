@@ -1,5 +1,7 @@
 # Cafe Coffee Day Website
 
+![Cafe Coffee Day](DARK.png)
+
 ## Description
 This project is a product showcase landing page for Cafe Coffee Day, designed to provide a delightful online experience for coffee enthusiasts and loyal customers. The website features a sleek and modern design, intuitive user interface, and seamless navigation, all aimed at replicating the inviting ambiance of Cafe Coffee Day's physical locations in the digital realm.
 
